@@ -1,6 +1,6 @@
 # MarkAI
 
-This project was developed using "Gemini 2.0 Flash Thinking Expermental"
+This project was developed using "Gemini 2.0 Flash Thinking Expermental"  
 このプロジェクトは"Gemini 2.0 Flash Thinking Expermental"を利用して開発されました
 
 ## Project Name: MarkAI
